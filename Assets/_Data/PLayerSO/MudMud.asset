@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e04ece01b89e7643a0bf2adb235289b, type: 3}
+  m_Name: MudMud
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacterSO
+  CharacterAvata: {fileID: 21300000, guid: 09fe358b80a449c4f992375958351bdc, type: 3}
+  playerVisualPrefab: {fileID: 5919431654867927810, guid: 1a39319dee0cf1241aaacd15fd76272e,
+    type: 3}
+  characterSprite: {fileID: 1935393225, guid: 1b0c6987d344bc04f91aeec16740e7c3, type: 3}
+  characterName: MM
+  Dmg: 2
+  Speed: 5
+  Hp: 150
+  AttackSpeed: 1.5

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e04ece01b89e7643a0bf2adb235289b, type: 3}
+  m_Name: Degenb
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacterSO
+  CharacterAvata: {fileID: 21300000, guid: bc010d4a9c167a240a88495a66ba4d45, type: 3}
+  playerVisualPrefab: {fileID: 5096524315193275770, guid: 23e7e557428e64d4db051eaab91f1fdb,
+    type: 3}
+  characterSprite: {fileID: 455893696, guid: 005ef09cdf34fb14085bc48ffe874ccb, type: 3}
+  characterName: DG
+  Dmg: 5
+  Speed: 6
+  Hp: 100
+  AttackSpeed: 2
